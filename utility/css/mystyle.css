@@ -1,0 +1,22 @@
+body{
+	background-color : #9A0E66;
+}
+.container{
+	width : 1200px;
+	margin: 50px auto;
+}
+h2{
+	font-size: 4em;
+   font-family: Calibri, Arial, Helvetica, sans-serif;
+   font-weight: bold;
+   color : #F1EA20;
+}
+.rank{
+	height : 100;
+	width : 98px;
+}
+.buttonStyle{
+	width : 250px;
+	height : 250;
+	background-color : #B00F72;
+}
