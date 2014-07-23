@@ -1,0 +1,38 @@
+body{
+	background-image : url('image/background.jpg');
+}
+.container{
+	width : 1200px;
+	margin: 20px auto;
+}
+.name{
+	width : 250px;
+	height : 250;
+	font-size: 3em;
+   font-family: Calibri, Arial, Helvetica, sans-serif;
+   font-weight: bold;
+   color : #F1EA20;
+   text-align : center;
+   display: flex;
+   align-items: center;
+   
+}
+h2{
+	font-size: 3em;
+   font-family: Calibri, Arial, Helvetica, sans-serif;
+   font-weight: bold;
+   color : #F1EA20;
+}
+.rank{
+	height : 100;
+	width : 98px;
+}
+.buttonStyle{
+	width : 250px;
+	height : 250;
+	background-color : #B00F72;
+	font-size: 3em;
+   font-family: Calibri, Arial, Helvetica, sans-serif;
+   font-weight: bold;
+   color : #F1EA20;
+}

@@ -1,0 +1,85 @@
+
+$(document).ready(function(){
+		 /*To hide the other buttons on clicking one button*/
+		  $("#button1Hug").click(function(){
+		  $("#button1Kick").fadeOut("fast");
+		  $("#button1No").fadeOut("fast");
+		  
+		});
+	
+	  $("#button1Kick").click(function(){
+	  $("#button1Hug").fadeOut("fast");
+	  $("#button1No").fadeOut("fast");
+	});
+
+	  $("#button1No").click(function(){
+	  $("#button1Kick").fadeOut("fast");
+	  $("#button1Hug").fadeOut("fast");
+	});
+
+		  $("#button2Hug").click(function(){
+		  $("#button2Kick").fadeOut("fast");
+		  $("#button2No").fadeOut("fast");
+		});
+	
+	  $("#button2Kick").click(function(){
+	  $("#button2Hug").fadeOut("fast");
+	  $("#button2No").fadeOut("fast");
+	});
+
+	  $("#button2No").click(function(){
+	  $("#button2Kick").fadeOut("fast");
+	  $("#button2Hug").fadeOut("fast");
+	});
+
+		  $("#button3Hug").click(function(){
+		  $("#button3Kick").fadeOut("fast");
+		  $("#button3No").fadeOut("fast");
+		});
+	
+	  $("#button3Kick").click(function(){
+	  $("#button3Hug").fadeOut("fast");
+	  $("#button3No").fadeOut("fast");
+	});
+
+	  $("#button3No").click(function(){
+	  $("#button3Kick").fadeOut("fast");
+	  $("#button3Hug").fadeOut("fast");
+	});
+
+		  $("#button4Hug").click(function(){
+		  $("#button4Kick").fadeOut("fast");
+		  $("#button4No").fadeOut("fast");
+		});
+	
+	  $("#button4Kick").click(function(){
+	  $("#button4Hug").fadeOut("fast");
+	  $("#button4No").fadeOut("fast");
+	});
+
+	  $("#button4No").click(function(){
+	  $("#button4Kick").fadeOut("fast");
+	  $("#button4Hug").fadeOut("fast");
+	});
+
+		  $("#button5Hug").click(function(){
+		  $("#button5Kick").fadeOut("fast");
+		  $("#button5No").fadeOut("fast");
+		});
+
+
+	  $("#button5Kick").click(function(){
+	  $("#button5Hug").fadeOut("fast");
+	  $("#button5No").fadeOut("fast");
+	});
+
+	  $("#button5No").click(function(){
+	  $("#button5Kick").fadeOut("fast");
+	  $("#button5Hug").fadeOut("fast");
+	});
+	
+	
+});
+//code ends here
+
+
