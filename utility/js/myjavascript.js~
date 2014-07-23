@@ -1,4 +1,0 @@
-$("button1hug").click(function(){
-  $("#button1hug").fadeOut("slow");
- 
-});
